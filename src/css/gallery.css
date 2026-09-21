@@ -14,13 +14,6 @@
   height: 200px;
 }
 
-.gallery-link,
-.gallery-image {
-  cursor:
-    url('hand-icon.svg') 0 0,
-    pointer;
-}
-
 .gallery-item a img {
   width: 100%;
   height: 100%;
