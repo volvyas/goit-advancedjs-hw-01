@@ -32,3 +32,14 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+input {
+  display: block;
+  box-sizing: border-box;
+}
+
+textarea {
+  display: block;
+  box-sizing: border-box;
+  resize: none;
+}

@@ -3,8 +3,8 @@ body {
 }
 
 .feedback-form {
-  max-width: 408;
-  max-height: 296;
+  max-width: 408px;
+  max-height: 296px;
   border-radius: 8px;
   padding: 24px;
   gap: 16px;
@@ -39,7 +39,6 @@ body {
 }
 .feedback-form textarea {
   height: 80px;
-  resize: none;
 }
 
 .feedback-form button {
